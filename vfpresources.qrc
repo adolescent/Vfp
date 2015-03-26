@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/blood_donor_icon.png</file>
+        <file>images/Button-Log-Off-icon.png</file>
+        <file>images/Button-Play-icon.png</file>
+        <file>images/Button-Stop-icon.png</file>
+        <file>images/Button-Turn-Off-icon.png</file>
+        <file>images/icon (2).png</file>
+        <file>images/icon.png</file>
+        <file>images/icon2.jpg</file>
+        <file>images/Pictures-icon.png</file>
+        <file>images/smartphone_icon.png</file>
+    </qresource>
+</RCC>
